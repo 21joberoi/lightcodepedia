@@ -1,2 +1,1 @@
-Hi, I'm a volunteer. I am a real expert in computers and animals, and basically everything. I once fixed a printer. I like dogs; cats are
-ok too. I am available whenever. You can find me around. Thanks, bye.
+Hi, I'm a volunteer. I am a real expert in computers and animals, and basically everything. I once fixed a printer. I like dogs; cats are ok too. I am available whenever. You can find me around. Thanks, bye.
