@@ -1,39 +1,39 @@
-# lc-progress v1
-/components	1/1	0/0	2026-07-27T17:34:53.560Z
-/components/accordion	3/3	0/0	2026-07-01T15:35:29.992Z
-/components/agent	2/2	0/0	2026-06-22T22:06:34.220Z
-/components/button	0/1	0/0	2026-06-18T15:26:05.180Z
-/components/cards	2/2	0/0	2026-06-22T17:21:12.677Z
-/components/carousel	1/1	0/0	2026-06-23T05:41:31.818Z
-/components/chart	0/1	0/0	2026-06-22T18:24:15.239Z
-/components/datagrid	2/2	0/0	2026-06-22T18:26:52.226Z
-/components/demo	1/1	0/0	2026-07-16T23:30:02.612Z
-/components/diagram	1/1	0/0	2026-08-24T15:57:18.310Z
-/components/dropdown	1/1	0/0	2026-06-22T14:14:01.785Z
-/components/embed_page	2/2	0/0	2026-07-20T23:12:26.673Z
-/components/examples/adopt_wanda	3/3	0/0	2026-06-27T12:56:18.380Z
-/components/examples/model	1/1	0/0	2026-07-06T03:15:06.942Z
-/components/feature	1/1	0/0	2026-07-01T15:50:57.744Z
-/components/form	2/2	0/0	2026-06-22T21:20:06.139Z
-/components/grid	1/1	0/0	2026-06-23T05:29:36.653Z
-/components/query	1/1	0/0	2026-06-19T12:07:41.194Z
-/components/quiz	6/7	0/0	2026-06-22T22:07:57.470Z
-/components/radio	2/2	0/0	2026-06-22T13:38:11.049Z
-/components/run	1/1	0/0	2026-06-23T04:54:12.794Z
-/components/tabs	4/4	0/0	2026-06-22T20:29:58.733Z
-/components/text	7/7	0/0	2026-09-17T17:08:28.241Z
-/micro_build_ai	1/1	0/0	2026-07-11T18:36:26.453Z
-/micro_build_ai/help-lucky	1/1	0/0	2026-07-12T14:05:32.878Z
-/tutorial101	4/4	0/0	2026-09-10T17:22:25.081Z
-gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T22:00:55.955Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	3/3	0/0	2026-09-11T17:36:13.936Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	3/3	1/1	2026-09-17T19:59:35.000Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/02_monday_after	7/7	1/1	2026-09-17T16:57:09.496Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/03_concepts	3/3	1/1	2026-09-17T16:59:05.866Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/01_volunteer	3/3	1/1	2026-09-17T20:34:43.612Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/02_north_burns	1/1	4/4	2026-09-17T20:33:22.842Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/03_broken_wire	2/2	1/1	2026-09-17T20:33:12.678Z
-gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/04_concepts	3/3	1/2	2026-09-17T21:17:42.755Z
-crc 54f12b6b
+# lc-progress v2
+/components	1/1	0/0	2026-07-27T17:34:53.560Z	21joberoi/lightcodepedia
+/components/accordion	3/3	0/0	2026-07-01T15:35:29.992Z	21joberoi/lightcodepedia
+/components/agent	2/2	0/0	2026-06-22T22:06:34.220Z	21joberoi/lightcodepedia
+/components/button	0/1	0/0	2026-06-18T15:26:05.180Z	21joberoi/lightcodepedia
+/components/cards	2/2	0/0	2026-06-22T17:21:12.677Z	21joberoi/lightcodepedia
+/components/carousel	1/1	0/0	2026-06-23T05:41:31.818Z	21joberoi/lightcodepedia
+/components/chart	0/1	0/0	2026-06-22T18:24:15.239Z	21joberoi/lightcodepedia
+/components/datagrid	2/2	0/0	2026-06-22T18:26:52.226Z	21joberoi/lightcodepedia
+/components/demo	1/1	0/0	2026-07-16T23:30:02.612Z	21joberoi/lightcodepedia
+/components/diagram	1/1	0/0	2026-08-24T15:57:18.310Z	21joberoi/lightcodepedia
+/components/dropdown	1/1	0/0	2026-06-22T14:14:01.785Z	21joberoi/lightcodepedia
+/components/embed_page	2/2	0/0	2026-07-20T23:12:26.673Z	21joberoi/lightcodepedia
+/components/examples/adopt_wanda	3/3	0/0	2026-06-27T12:56:18.380Z	21joberoi/lightcodepedia
+/components/examples/model	1/1	0/0	2026-07-06T03:15:06.942Z	21joberoi/lightcodepedia
+/components/feature	1/1	0/0	2026-07-01T15:50:57.744Z	21joberoi/lightcodepedia
+/components/form	2/2	0/0	2026-06-22T21:20:06.139Z	21joberoi/lightcodepedia
+/components/grid	1/1	0/0	2026-06-23T05:29:36.653Z	21joberoi/lightcodepedia
+/components/query	1/1	0/0	2026-06-19T12:07:41.194Z	21joberoi/lightcodepedia
+/components/quiz	6/7	0/0	2026-06-22T22:07:57.470Z	21joberoi/lightcodepedia
+/components/radio	2/2	0/0	2026-06-22T13:38:11.049Z	21joberoi/lightcodepedia
+/components/run	1/1	0/0	2026-06-23T04:54:12.794Z	21joberoi/lightcodepedia
+/components/tabs	4/4	0/0	2026-06-22T20:29:58.733Z	21joberoi/lightcodepedia
+/components/text	7/7	0/0	2026-09-17T17:08:28.241Z	21joberoi/lightcodepedia
+/micro_build_ai	1/1	0/0	2026-07-11T18:36:26.453Z	21joberoi/lightcodepedia
+/micro_build_ai/help-lucky	1/1	0/0	2026-07-12T14:05:32.878Z	21joberoi/lightcodepedia
+/tutorial101	4/4	0/0	2026-09-10T17:22:25.081Z	21joberoi/lightcodepedia
+gh:michelzam/lightcodepedia/docs/_410/databases/module_01/01_welcome	1/1	0/0	2026-09-02T22:00:55.955Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	3/3	0/0	2026-09-11T17:36:13.936Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	3/3	1/1	2026-09-17T21:19:59.566Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/02_monday_after	7/7	1/1	2026-09-17T16:57:09.496Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/03_concepts	3/3	1/1	2026-09-17T16:59:05.866Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/01_volunteer	3/3	1/1	2026-09-17T20:34:43.612Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/02_north_burns	1/1	4/4	2026-09-17T20:33:22.842Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/03_broken_wire	2/2	1/1	2026-09-17T20:33:12.678Z	21joberoi/lightcodepedia
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_01/04_concepts	3/3	1/2	2026-09-17T21:17:42.755Z	21joberoi/lightcodepedia
+crc 510c6266
