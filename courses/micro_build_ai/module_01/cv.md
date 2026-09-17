@@ -23,4 +23,4 @@ Date: September 17, 2027
 1. Biscuit
 1. Nova
 
-[Visit lightcodepedia](/)
+[Visit lightcodepedia](https://wheelofnames.com)
