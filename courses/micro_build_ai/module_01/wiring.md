@@ -17,4 +17,4 @@ Nova,180,Downtown
 ```csv
 ```
 
-{: .chart #fees type="bar" x="name" y="fee" source="adoptions" height="260" empty="Nothing arrives here yet — this chart is listening for a part that does not exist." }
+{: .chart #fees type="bar" x="name" y="fee" source="dogs" height="260" empty="Nothing arrives here yet — this chart is listening for a part that does not exist." }
