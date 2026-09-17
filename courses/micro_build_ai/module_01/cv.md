@@ -1,1 +1,1 @@
-Hi, I'm Jessey. I am a real expert in computers and animals, and basically everything. I once fixed a printer. I like dogs; cats are ok too. I am available whenever. You can find me around. Thanks, bye.
+Hi, I'm Jessey. I ask a page questions in SQL and watch it answer live. I write the acceptance criteria before I build the thing. I repair data problems where they live — in the values. I let AI draft fast, and let proof runs decide what stays. 
