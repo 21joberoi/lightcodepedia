@@ -15,3 +15,5 @@
 - *I let AI draft fast, and let proof runs decide what stays.*
 
 ## Degrees
+
+Date: September 17, 2027
