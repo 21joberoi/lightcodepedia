@@ -24,3 +24,5 @@ Date: September 17, 2027
 1. Nova
 
 [Visit lightcodepedia](https://wheelofnames.com)
+
+![Image](https://th.bing.com/th/id/OIP.hZtnx7oMrjNzKRc8PiOb9wHaEJ?w=332&h=186&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)
