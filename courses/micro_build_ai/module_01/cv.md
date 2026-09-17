@@ -17,3 +17,8 @@
 ## Degrees
 
 Date: September 17, 2027
+
+## Preferred Pets
+
+1. Biscuit
+1. Nova
